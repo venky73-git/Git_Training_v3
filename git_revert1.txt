@@ -1,1 +1,0 @@
-This is git revert commit 1.
